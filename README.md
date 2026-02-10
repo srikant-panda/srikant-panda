@@ -23,7 +23,7 @@ I am a B.Tech student passionate about **Cybersecurity** and **Operating Systems
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=srikant-panda&show_icons=true&theme=radical" alt="Srikant's Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srikant-panda&theme=radical" alt="Srikant's Streak" />
 </p>
 
 ### 🔗 Connect with Me
