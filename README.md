@@ -4,11 +4,9 @@
 
 I am a B.Tech student passionate about **Cybersecurity** and **Operating Systems**. My goal is to master the art of breaking and securing systems (Red Teaming).
 
-- 🔭 I’m currently working on **[PyAuth-Core](https://github.com/srikant-panda/PyAuth-Core)** (A secure, OOP-based authentication system).
 - 🌱 I’m currently learning **Network Security**, **Data Structures**, and **System Administration**.
-- 👯 I’m looking to collaborate on **CLI Tools** and **Security Scripts**.
-- 💬 Ask me about **Linux (Fedora/Zorin)**, **Python Logic**, and **Bootloaders**.
-- ⚡ Fun fact: I fixed my own 5G phone driver issues by unlocking the bootloader.
+- 💬 Ask me about **Linux (Fedora/Zorin)**, **little Python Logic**, and **Bootloaders**.
+- ⚡ Fun fact: Bricked my Arch once… panicked for 2 minutes, and that was the last time I panicked.
 
 ---
 
